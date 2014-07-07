@@ -5,7 +5,7 @@
 	"version": "0.1.1",
 	"keywords": [],
 	"dependencies": {
-		"ractivejs/ractive": "*"
+		"ractivejs/ractive": "master"
 	},
 	"development": {},
 	"license": "MIT",
